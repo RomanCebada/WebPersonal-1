@@ -1,0 +1,9 @@
+html{
+    font-family: 'Century Gothic';
+    background-image: url('../large.jpg');
+    background-attachment: fixed;
+    font-size: 1rem;
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    background-size: 100% 100%;
+}
